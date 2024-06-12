@@ -1,6 +1,6 @@
 using BibliotecaData.Configuracion;
 using BibliotecaData.Contrato;
-using BibliotecaData.Implementacion;
+using BibliotecaNegocios.Implementacion;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.Extensions.Options;
 

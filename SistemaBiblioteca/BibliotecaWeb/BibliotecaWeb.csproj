@@ -12,6 +12,13 @@
 
   <ItemGroup>
     <ProjectReference Include="..\BibliotecaData\BibliotecaData.csproj" />
+	
   </ItemGroup>
+	
+    <ItemGroup>
+		<ProjectReference Include="..\BibliotecaNegocios\BibliotecaNegocios.csproj" />
+	
+    </ItemGroup>
+
 
 </Project>
